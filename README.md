@@ -12,7 +12,7 @@
 
 ![Virag's github stats](https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue)
 
-<br /><br />
+<br />
 
 ### Languages and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact)
