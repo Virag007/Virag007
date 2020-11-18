@@ -1,10 +1,8 @@
-### <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f3563864-3449-44e9-b469-6b8f58343c4a/d2vnfku-82df8a4d-9c94-463a-87a4-d5a14c94664b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZjM1NjM4NjQtMzQ0OS00NGU5LWI0NjktNmI4ZjU4MzQzYzRhXC9kMnZuZmt1LTgyZGY4YTRkLTljOTQtNDYzYS04N2E0LWQ1YTE0Yzk0NjY0Yi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.OUClH_q0MEVuhevcjnH7GhsH7h5ohIeabffwMetw5ag" width="70" />I'm Parag - aka [virag](https://watercaterpillar.blogspot.com)
-
 [![Website](https://img.shields.io/website?label=Watercaterpillar&style=for-the-badge&url=https://watercaterpillar.blogspot.com)](https://watercaterpillar.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_virag007?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_virag007&screen_name=_virag007)
 [![Linkedin Follow](https://img.shields.io/badge/connect-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag0thakur/)
 
-### I'm a Security Researcher, Pentester, Developer, and Entrepreneur!! 
+### <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f3563864-3449-44e9-b469-6b8f58343c4a/d2vnfku-82df8a4d-9c94-463a-87a4-d5a14c94664b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZjM1NjM4NjQtMzQ0OS00NGU5LWI0NjktNmI4ZjU4MzQzYzRhXC9kMnZuZmt1LTgyZGY4YTRkLTljOTQtNDYzYS04N2E0LWQ1YTE0Yzk0NjY0Yi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.OUClH_q0MEVuhevcjnH7GhsH7h5ohIeabffwMetw5ag" width="70" />I'm Parag - aka [virag](https://watercaterpillar.blogspot.com) | A Security Researcher, Pentester, Developer, and Entrepreneur!!
 
 - :globe_with_meridians: I just published my write-up series: [Write-Ups](https://watercaterpillar.blogspot.com/2020/09/hack-box-write-ups_2.html)!
 - :bowtie: I’m currently learning everything 🤣
@@ -14,16 +12,7 @@
 
 ![Virag's github stats](https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue)
 
-                                                  
-### Connect with me:
-
-[<img align="left" alt="watercaterpillar.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://watercaterpillar.blogspot.com/)
-[<img align="left" alt="@_virag007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_virag007)
-[<img align="left" alt="parag0thakur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/parag0thakur/)
-[<img align="left" alt="v_ir_ag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/v_ir_ag/)
-[<img align="left" alt="parag888 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/parag888)
-
-<br />
+<br /><br />
 
 ### Languages and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact)
@@ -42,8 +31,6 @@
 <img align="right" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
 
 <br />
-<br />
-
 
 ---
 
@@ -59,3 +46,12 @@
 :arrow_forward: [more blog posts...](https://watercaterpillar.blogspot.com)
 
 ---
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="watercaterpillar.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://watercaterpillar.blogspot.com/)
+[<img align="left" alt="@_virag007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_virag007)
+[<img align="left" alt="parag0thakur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/parag0thakur/)
+[<img align="left" alt="v_ir_ag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/v_ir_ag/)
+[<img align="left" alt="parag888 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/parag888)
