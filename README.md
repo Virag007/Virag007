@@ -30,8 +30,6 @@
 <img align="right" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="right" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
 
-<br />
-
 ---
 
 ### :books: Latest Blog Posts
@@ -46,7 +44,6 @@
 :arrow_forward: [more blog posts...](https://watercaterpillar.blogspot.com)
 
 ---
-<br />
 
 ### Connect with me:
 
