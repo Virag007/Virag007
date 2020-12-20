@@ -10,12 +10,13 @@
 - :fire: 2020 Goals: Become a successful Entrepreneur.
 - :boom: Fun fact: I love to hack and play CTF on my free time!.
 
-![Virag's github stats](https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue)
+<img align="left" height="200px" width="150px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true" />
+<img align="right" height="200px" width="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact" />
 
 <br />
 
 ### Languages and Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact)
+
 <img align="right" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="right" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="right" alt="SpringBoot" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFsFDTgVX36BMDeDvvA8YVM8w-VDHAHYDHZEc-0TzZnLinGwxXN7sH1W3XE8VHz2fylAKK3Rl9dcBooZkCAsV5_-5ogGodTg&usqp=CAU&ec=45725304" />
