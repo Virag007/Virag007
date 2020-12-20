@@ -11,7 +11,7 @@
 - :boom: Fun fact: I love to hack and play CTF on my free time!.
 <br />
 
-<p align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true" /><img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact" /></p>
+<p align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true&hide_border=true" /><img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact&hide_border=true" /></p>
 
 
 ### Languages and Tools:
