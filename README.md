@@ -33,6 +33,8 @@
 
 ---
 
+<p>&nbsp;</p>
+
 ### :books: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -45,8 +47,6 @@
 :arrow_forward: [more blog posts...](https://watercaterpillar.blogspot.com)
 
 ---
-
-<p>&nbsp;</p>
 
 ### Connect with me:
 
