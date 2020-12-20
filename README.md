@@ -10,7 +10,7 @@
 - :fire: 2020 Goals: Become a successful Entrepreneur.
 - :boom: Fun fact: I love to hack and play CTF on my free time!.
 
-<p><img height="300px" width="350px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true" /><img height="300px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact" /></p>
+<p align="center"><img height="340px" width="350px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true" /><img height="300px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact" /></p>
 
 ### Languages and Tools:
 
