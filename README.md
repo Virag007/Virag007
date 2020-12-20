@@ -33,8 +33,6 @@
 
 ---
 
-<p>&nbsp;</p>
-
 ### :books: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
