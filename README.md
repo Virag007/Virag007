@@ -11,8 +11,8 @@
 - :boom: Fun fact: I love to hack and play CTF on my free time!.
 <br />
 
-<p align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true&hide_border=true" /><img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact&hide_border=true" /></p>
-
+<p align="left"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true&hide_border=true" /><img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact&hide_border=true" /></p>
+<p>&nbsp;</p>
 
 ### Languages and Tools:
 
@@ -33,6 +33,8 @@
 
 ---
 
+<p>&nbsp;</p>
+
 ### :books: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -45,6 +47,8 @@
 :arrow_forward: [more blog posts...](https://watercaterpillar.blogspot.com)
 
 ---
+
+<p>&nbsp;</p>
 
 ### Connect with me:
 
