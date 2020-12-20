@@ -9,21 +9,27 @@
 - :raised_hands: I’m looking to collaborate with other content creators
 - :fire: 2020 Goals: Become a successful Entrepreneur.
 - :boom: Fun fact: I love to hack and play CTF on my free time!.
+<br />
 
-<p align="center"><img height="340px" width="350px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true" /><img height="300px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact" /></p>
+<p align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=virag007&show_icons=true&theme=vue&count_private=true" /><img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag007&layout=compact" /></p>
+
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="SpringBoot" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFsFDTgVX36BMDeDvvA8YVM8w-VDHAHYDHZEc-0TzZnLinGwxXN7sH1W3XE8VHz2fylAKK3Rl9dcBooZkCAsV5_-5ogGodTg&usqp=CAU&ec=45725304" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />](https://www.python.org)
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />](https://www.java.com)
+[<img align="left" alt="SpringBoot" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFsFDTgVX36BMDeDvvA8YVM8w-VDHAHYDHZEc-0TzZnLinGwxXN7sH1W3XE8VHz2fylAKK3Rl9dcBooZkCAsV5_-5ogGodTg&usqp=CAU&ec=45725304" />](https://spring.io/)
+[<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />](https://www.php.net/)
+[<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />](https://isocpp.org/)
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />](https://www.javascript.com/)
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
+[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
+[<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Docker" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg" />](https://www.docekr.com)
+<br />
+<br />
 
 ---
 
